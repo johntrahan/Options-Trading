@@ -9,3 +9,6 @@ The quantmod package in R can be helpful to easily find information.
 Using Yahoo Finance and downloading a CSV of the past year's information can help find daily changes. 
 
 This code is pulled from a github user who coded in Python, then changed to work in R.
+
+Remember the limitations of this model! 
+The risk free rate and volatility are held constant over the time period and it doesn't take into account extremes.
